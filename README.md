@@ -1,3 +1,9 @@
+# Lynx: Compositional Diagram Layout
+
+This project is exploratory, beginning as a hard-fork of Obsidian, which is based on Basalt.
+
+See below for the original Obsidian documentation.
+
 # obsidian
 
 Obsidian is a constraint-based system for generating technical diagrams
